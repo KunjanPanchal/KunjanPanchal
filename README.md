@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://iridescent-unicorn-5f6ec4.netlify.app/](https://iridescent-unicorn-5f6ec4.netlify.app/)
 
+- I am currently working at GAOTeck as **Web Developer Intern**
+
 - 📫 How to reach me **kunjanpanchal06012004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
