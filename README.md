@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjanpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="kunjanpanchal" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjanpanchal" alt="kunjanpanchal" /></a> </p>
+
 - 🔭 I’m currently working on **Linked Us**
 
 - 🌱 I’m currently learning **MERN, DSA**
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kunjanpanchal61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunjanpanchal61" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunjan panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunjan panchal" height="30" width="40" /></a>
 <a href="https://instagram.com/kunjan_panchal_796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunjan_panchal_796" height="30" width="40" /></a>
 </p>
