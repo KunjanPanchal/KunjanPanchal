@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjanpanchal" alt="kunjanpanchal" /></a> </p>
 
-- 🔭 I’m currently working on **News Portal**
+- 🔭 I’m currently working on **Interview Prep Portal**
 
 - 🌱 I’m currently learning **MERN, DSA**
 
